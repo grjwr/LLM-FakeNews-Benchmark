@@ -1,0 +1,14 @@
+{
+  "model": "Mistral-7B (LoRA)",
+  "dataset": "gossipcop",
+  "epochs": 3,
+  "train_samples": 15498,
+  "test_samples": 3321,
+  "accuracy": 0.7681421258657031,
+  "precision": 0.7303768096292801,
+  "recall": 0.7681421258657031,
+  "f1": 0.7146861708410819,
+  "training_time_minutes": 17.15,
+  "inference_time_seconds": 25.5241,
+  "timestamp": "2026-05-14T00:18:26.995400"
+}

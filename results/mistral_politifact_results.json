@@ -1,0 +1,14 @@
+{
+  "model": "Mistral-7B (LoRA)",
+  "dataset": "politifact",
+  "epochs": 3,
+  "train_samples": 739,
+  "test_samples": 159,
+  "accuracy": 0.9308176100628931,
+  "precision": 0.9307234773253888,
+  "recall": 0.9308176100628931,
+  "f1": 0.9307324834602879,
+  "training_time_minutes": 0.84,
+  "inference_time_seconds": 0.9715,
+  "timestamp": "2026-05-13T23:57:57.700072"
+}

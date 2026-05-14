@@ -1,0 +1,14 @@
+{
+  "model": "Mistral-7B (LoRA)",
+  "dataset": "liar2",
+  "epochs": 3,
+  "train_samples": 16073,
+  "test_samples": 3445,
+  "accuracy": 0.7283018867924528,
+  "precision": 0.6886733038242727,
+  "recall": 0.7283018867924528,
+  "f1": 0.6946381758609266,
+  "training_time_minutes": 41.28,
+  "inference_time_seconds": 57.7282,
+  "timestamp": "2026-05-14T02:46:10.366263"
+}

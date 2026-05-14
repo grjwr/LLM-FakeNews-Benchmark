@@ -1,0 +1,14 @@
+{
+  "model": "Mistral-7B (LoRA)",
+  "dataset": "fake_real",
+  "epochs": 3,
+  "train_samples": 3215,
+  "test_samples": 689,
+  "accuracy": 0.9375907111756169,
+  "precision": 0.9376231099896809,
+  "recall": 0.9375907111756169,
+  "f1": 0.9375891335401045,
+  "training_time_minutes": 3.56,
+  "inference_time_seconds": 5.1267,
+  "timestamp": "2026-05-14T09:39:37.619802"
+}
